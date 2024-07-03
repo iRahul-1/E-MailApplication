@@ -1,5 +1,5 @@
-package com.mailsystem.service;
+package com.user.mail;
 
-public interface IMailService {
+public interface ISendEmailToUser {
 	public String mailUser(String msg,String Email)throws Exception;
 }

@@ -1,4 +1,4 @@
-package com.mailsystem.model;
+package com.user.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
